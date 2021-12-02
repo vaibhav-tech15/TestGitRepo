@@ -1,1 +1,2 @@
 This is my first file. This is first update.
+Updating file to practice for commit using GUI.
