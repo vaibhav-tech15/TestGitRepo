@@ -3,3 +3,4 @@ Modifying this file to test git ammend
 Most recent text, added through feature/enhancement branch
 Test work
 Test again
+Changes in feature branch to test merge commit
