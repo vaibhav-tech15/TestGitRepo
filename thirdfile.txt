@@ -7,3 +7,4 @@ Changes in feature branch to test merge commit
 Change done in master branch
 Added this line on dec3 branch
 Added this line for git diff example
+Added this line in parallel to feature branch work
