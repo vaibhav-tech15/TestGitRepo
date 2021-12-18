@@ -46,7 +46,9 @@ Classic markup: :wink:  :cry: :laughing: :yum:
 Today is Dec 18<sup>th</sup> 2021
 Formula for water is H<sub>2</sub>O
 
-==Marked text==
+/ Marked text
 
 #### Markdown Tool
 [Click this link](https://markdown-it.github.io/)
+
+[Github Formatting Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
