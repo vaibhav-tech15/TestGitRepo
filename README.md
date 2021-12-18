@@ -6,6 +6,8 @@ __This is also an example for bold text__
 
 *This is text in italics*
 
+~Strikethrough~
+
 Inline `code`
 
 Indented code
@@ -41,5 +43,10 @@ Right aligned columns
 Classic markup: :wink:  :cry: :laughing: :yum:
 
 ### Subscript and Superscript
-Today is Dec 18^th^ 2021
-Formula for water is H~2~O
+Today is Dec 18<sup>th</sup> 2021
+Formula for water is H<sub>2</sub>O
+
+==Marked text==
+
+#### Markdown Tool
+[Click this link](https://markdown-it.github.io/)
