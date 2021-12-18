@@ -1,2 +1,3 @@
 Added new file
 Added first change to feature branch
+Added second change to feature branch
